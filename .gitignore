@@ -1,0 +1,12 @@
+.gradle
+build
+.idea/
+.project
+.settings/
+.classpath
+nbactions.xml
+nb-configuration.xml
+nbproject/
+# Local agent guidance from the upstream template — not part of the plugin
+AGENTS.md
+CLAUDE.md
